@@ -1,0 +1,17 @@
+#git
+.git
+
+#Visual Studio 
+.vscode
+
+# Build
+build
+
+# Node
+node_modules
+
+#Postman
+postman
+
+# environment variables
+.env
