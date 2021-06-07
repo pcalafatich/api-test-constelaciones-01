@@ -1,7 +1,7 @@
 {
   "name": "api-test-constelaciones-01",
   "version": "1.0.1",
-  "description": "cONSTELACIONES REST API TEST",
+  "description": "CONSTELACIONES REST API TEST",
   "main": "dist/index.js",
   "scripts": {
     "dev": "nodemon src/index.js --exec babel-node",
