@@ -1,7 +1,7 @@
 {
-  "name": "company-products-api",
+  "name": "api-test-constelaciones-01",
   "version": "1.0.1",
-  "description": "A Company REST API with authentication and authorization",
+  "description": "cONSTELACIONES REST API TEST",
   "main": "dist/index.js",
   "scripts": {
     "dev": "nodemon src/index.js --exec babel-node",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaztWeb/company-products-api.git"
+    "url": "git+https://github.com/pcalafatich/api-test-constelaciones-01.git"
   },
   "keywords": [],
-  "author": "Fazt",
+  "author": "PC",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FaztWeb/company-products-api/issues"
+    "url": "https://github.com/pcalafatich/api-test-constelaciones-01/issues"
   },
-  "homepage": "https://github.com/FaztWeb/company-products-api#readme",
+  "homepage": "https://github.com/pcalafatich/api-test-constelaciones-01#readme",
   "devDependencies": {
     "@babel/cli": "^7.11.5",
     "@babel/core": "^7.11.5",
